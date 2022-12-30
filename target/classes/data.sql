@@ -1,0 +1,2 @@
+INSERT INTO USUARIO(cpf, password, ativo) VALUES('025.586.143-55', '$2a$10$8kS.lt0NtfJ/KDBWw3Hte.I9yOP3bXRHWlw4teO9njY8LI3bO5oUu','true');
+INSERT INTO USUARIO(cpf, password, ativo) VALUES('025.586.143-56', '$2a$10$8kS.lt0NtfJ/KDBWw3Hte.I9yOP3bXRHWlw4teO9njY8LI3bO5oUu','true');
